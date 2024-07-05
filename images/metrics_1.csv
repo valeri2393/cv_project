@@ -1,0 +1,6 @@
+,Train,Valid
+Classification loss,0.162,0.217
+Regression loss,0.609,0.368
+Total loss,0.771,0.585
+Accuracy,1.0,0.984
+IoU,0.62,0.631
